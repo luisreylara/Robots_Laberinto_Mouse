@@ -1,18 +1,6 @@
-# Robots Laberinto Mouse
-## Mini Robots Laberinto Mouse
-
-
-## Links:
- 
+## Images : 
 ```
 
-La COMPETENCIA de ROBOTS en LABERINTOS más rápida del MUNDO
-https://www.youtube.com/watch?v=IDiuQNmKOdo
- 
 ```
 
 
-## Palabras clave
-```
-Micro Ratones
-```
