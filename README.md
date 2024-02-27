@@ -16,6 +16,16 @@ https://www.youtube.com/watch?v=yaEFjGoeJNU
 La COMPETENCIA de ROBOTS en LABERINTOS más rápida del MUNDO
 https://www.youtube.com/watch?v=IDiuQNmKOdo
 
+Micromouse - Sparky (maze solving)
+https://www.youtube.com/watch?v=Les1Pttd3xg
+probably DPS algorithm, cuz it search all the possible node.
+How did it detects position...?
+
+El microratón sabe dónde está en todo momento. Lo sabe porque sabe dónde no está. Restando donde está de donde no está, o donde no está de donde está (lo que sea mayor), obtiene una diferencia o desviación. El subsistema de guía utiliza desviaciones para generar comandos correctivos para conducir el microratón desde una posición donde está a una posición donde no está, y al llegar a una posición donde no estaba, ahora está. En consecuencia, la posición en la que estaba ahora es la posición en la que no estaba, y se sigue que la posición que estaba ahora es la posición que no es.
+En el caso de que la posición en la que se encuentra no sea la posición que no estaba, el sistema ha adquirido una variación, siendo la variación la diferencia entre dónde está el ratón y dónde no estaba. Si se considera que la variación es un factor significativo, la GEA también puede corregirla. Sin embargo, el ratón también debe saber dónde estaba.
+El escenario de la computadora con guía de micromouse funciona de la siguiente manera. Debido a que una variación ha modificado parte de la información que obtuvo el misil, no está seguro de dónde está. Sin embargo, está seguro de dónde no está, dentro de lo razonable, y sabe dónde estaba. Ahora resta donde debería estar de donde no estaba, o viceversa, y diferenciando esto de la suma algebraica de donde no debería estar y donde estaba, puede obtener la desviación y su variación. , lo que se llama error.
+
+
 ```
 
 ## SUMO
