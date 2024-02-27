@@ -31,6 +31,13 @@ El escenario de la computadora con guía de micromouse funciona de la siguiente 
 
 > Micromouse Part 2: The Build <https://www.youtube.com/watch?v=wgxb19rqXTE&t=18s>
 
+> Micromouse Construction Tutorial Part 1 of 4 <https://www.youtube.com/watch?v=Hv0q0KWkNRY>
+
+>PICAXE 'PICone' Micromouse <https://picaxe.com/hardware/robot-kits/picaxe-picone-micromouse/>
+>Micromouse Construction Tutorial Part 2 of 4 <https://www.youtube.com/watch?v=-zg10e0kgUk>
+>Micromouse Construction Tutorial Part 3 of 4 <https://www.youtube.com/watch?v=qIuPfIbXNO0>
+>Micromouse Construction Tutorial Part 4 of 4 <https://www.youtube.com/watch?v=TqTgMHo38xc>
+
 ## SUMO
 
 ```
