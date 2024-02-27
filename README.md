@@ -2,11 +2,6 @@
 
 
 ```
-prueba
-link
-
-
-
 Como hacer un Robot Resuelve Laberintos - Introduccion
 https://www.youtube.com/watch?v=w5qjag_Qafg
 
@@ -28,8 +23,13 @@ probably DPS algorithm, cuz it search all the possible node.
 En el caso de que la posición en la que se encuentra no sea la posición que no estaba, el sistema ha adquirido una variación, siendo la variación la diferencia entre dónde está el ratón y dónde no estaba. Si se considera que la variación es un factor significativo, la GEA también puede corregirla. Sin embargo, el ratón también debe saber dónde estaba.
 El escenario de la computadora con guía de micromouse funciona de la siguiente manera. Debido a que una variación ha modificado parte de la información que obtuvo el misil, no está seguro de dónde está. Sin embargo, está seguro de dónde no está, dentro de lo razonable, y sabe dónde estaba. Ahora resta donde debería estar de donde no estaba, o viceversa, y diferenciando esto de la suma algebraica de donde no debería estar y donde estaba, puede obtener la desviación y su variación. , lo que se llama error.
 
+## MicroMouse
 
+>This design is the same as Excel-9 but added a suction fan in the center. <https://sites.google.com/site/myprojectq/robotic/classic-micromouse/excel-9a>
 
+> Micromouse: Meet Double Decker and Radio Flyer Part 1 <https://www.youtube.com/watch?v=2w2cQWvxAGM>
+
+> Micromouse Part 2: The Build <https://www.youtube.com/watch?v=wgxb19rqXTE&t=18s>
 
 ## SUMO
 
