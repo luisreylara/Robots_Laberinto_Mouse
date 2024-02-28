@@ -46,8 +46,9 @@ El escenario de la computadora con guía de micromouse funciona de la siguiente 
 > Micromouse "Dendryt" code <https://github.com/Bilan/micromouse>
 DC Faulhaber 1717T006SR with IE2-256 encoder
 
->arduinoWallFollower <https://github.com/LamaNIkesh/MazeSolver-NoIntelligence>
+>arduinoWallFollower <https://github.com/LamaNIkesh/MazeSolver-NoIntelligence>>
 
+> Arduino | Maze Solving Robot (MicroMouse) \ Wall Following Robot <https://www.instructables.com/Maze-Solving-Robot-MicroMouse-Wall-Following-Robot/>
 ## SUMO
 
 ```
